@@ -4,7 +4,7 @@ let vendas = ler.question("Quantas vendas o funcionário fez? ");
 const meta = 10000;
 
 if (vendas >= Number(meta)) {
-    console.log("Gnahou!");
+    console.log("Ganhou!");
 } else {
     console.log("Não Ganhou!");
 }
